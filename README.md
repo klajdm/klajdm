@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A collaborative software developer with a focus on experiences and interfaces. <br>Based in Vlorë, Albania. I never stop learning and for me, each new project is another adventure.</p>
+<p align="left">A collaborative software developer with a focus on experiences and interfaces. <br>Based in Vlorë, Albania.</p>
 
 ###
 

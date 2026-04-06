@@ -15,9 +15,9 @@
 <br clear="both">
 
 <div align="center">
- https://github-readme-stats-fast.vercel.app/api?username=klajdm&show_icons=true&theme=radical
- https://github-readme-stats-fast.vercel.app/api/streak?username=klajdm&theme=radical
- https://github-readme-stats-fast.vercel.app/api/top-langs/?username=klajdm&layout=compact&theme=radical
+ <img src="https://github-readme-stats-fast.vercel.app/api?username=klajdm&show_icons=true&theme=radical"  />
+ <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=klajdm&theme=radical"  />
+ <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=klajdm&layout=compact&theme=radical"  />
 </div>
 
 

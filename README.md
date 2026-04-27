@@ -18,15 +18,15 @@
  <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=klajdm&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=acb0be&bg_color=050507&hide=issues,prs" width="400" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=klajdm&theme=radical"  />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klajdm&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=acb0be&bg_color=050507" width="300" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=klajdm&layout=compact&theme=radical"  />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=klajdm&theme=tokyonight&hide_border=true&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&background=050507" width="100%" alt="GitHub Streak" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=klajdm&theme=radical"  />
     </td>
   </tr>
 </table>

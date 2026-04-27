@@ -18,7 +18,7 @@
  <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=klajdm&show_icons=true&theme=radical"  />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=klajdm&show_icons=true&theme=radical&hide=issues,prs"  />
     </td>
     <td align="center">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=klajdm&layout=compact&theme=radical"  />

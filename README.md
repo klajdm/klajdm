@@ -18,15 +18,15 @@
  <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=klajdm&show_icons=true&theme=radical&hide=issues"  />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=klajdm&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=klajdm&layout=compact&theme=radical"  />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=klajdm&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=klajdm&theme=radical"  />
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=klajdm&theme=radical" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
